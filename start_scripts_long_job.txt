@@ -1,0 +1,1 @@
+automation the creation of image and making containers of this images
